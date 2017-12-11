@@ -21,7 +21,13 @@
   <remote  name="rr"
 	   fetch="https://github.com/ResurrectionRemix"
 	   revision="nougat" />
+	
+   <remote  name="rr"
+	   fetch="https://github.com/RedBaka/Resurrection_packages_apps_Settings"
+	   revision="nougat" />	
 
+	
+	
   <!-- AOSP Projects -->
   <project path="build" name="android_build" remote="rr" >
     <copyfile src="core/root.mk" dest="Makefile" />
