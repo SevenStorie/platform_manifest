@@ -23,7 +23,7 @@
 	   revision="nougat" />
 	
    <remote  name="rr"
-	   fetch="https://github.com/RedBaka/Resurrection_packages_apps_Settings"
+	   fetch="https://github.com/RedBaka"
 	   revision="nougat" />	
 
 	
